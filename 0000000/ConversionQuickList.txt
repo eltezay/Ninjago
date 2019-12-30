@@ -1,0 +1,49 @@
+- Site Survey:
+	Posted in Teams, will be done upfront and within 120 days before conversion. 
+	On this Site Survey you will find important information like:
+		-
+		-
+
+- Request Petnames: 
+	Note that every pet name may be at a cost. Get a few extra, 5 - 10 is reasonable
+
+- Submit CSI routes list to customer(bank) IT or MSP.
+	- Understand if CSI router will be behind a firewall or not. 
+	
+Autotask: Assign resources to tasks if needed. Add notes to project to update everyone
+- Verify Equipment ordered based off Site Survey and Project notes.
+	- Must know if all equipment has been ordered and recieved. Did you Double check the Count?
+- Circuit Turn up:
+	- Schedule Onsite time to install router 
+	- Install at one NuPoint client on customer PC to verify connectivity. 
+Install NuPoint on remaining workstations.
+- Verify while installing NuPoint whether or not additional petnames are needed.
+	- Request additional petnames if needed.
+- Verify training laptop schedule.
+- Get username/password for CSIRP and Centerview from Implementation Lead.
+
+Manage Training Laptops: 
+Note: Circuit should already been turned up and connection to CSI internal network estableshed prior to setting up these machines. 
+	- Setup training laptops on customer site. Consider local networking setup (NuPoint Must work)
+	- 
+
+- Review Site Survey and/or check with Implementation Lead to verify software needed.
+- Install any additional software that will not break current provider operation such as scanner drivers, Smart Branch, signature pads, eSign, etcetera.
+Considerations
+Software / Services needed:
+	NuPoint 
+		- Consider having a GPO for NuPoint Permissions and verify the application
+	CSIRP (Remote Print)
+	DFX
+		- Must have an email user setup for the file exchange
+	IDF
+	
+Cash Recyclers
+Teller setup
+	Scanners / Printers / Signature pads
+	
+	
+Troubleshooting
+- Consider folder permissions
+- check to make sure security suite is not affecting situation. 
+- Make sure csiweb.com resolves to an internal ip

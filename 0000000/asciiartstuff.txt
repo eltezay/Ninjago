@@ -1,0 +1,390 @@
+'                                .do-''''''-o..
+                             .o''            ''..
+                           ,,''                 ''b.
+                          d'                      ''b
+                         d'd:                       'b.
+                        ,,dP                         'Y.
+                       d'88                           '8.
+ ooooooooooooooooood888'88'                            '88888888888bo,
+d'''    '''''''''''''Y:d8P                              8,          'b
+8                    P,88b                             ,'8           8
+8                   ::d888,                           ,8:8.          8
+:                   dY88888                           '' ::          8
+:                   8:8888                               'b          8
+:                   Pd88P',...                     ,d888o.8          8
+:                   :88'dd888888o.                d8888'88:          8
+:                  ,:Y:d8888888888b             ,d88888:88:          8
+:                  :::b88d888888888b.          ,d888888bY8b          8
+                    b:P8;888888888888.        ,88888888888P          8
+                    8:b88888888888888:        888888888888'          8
+                    8:8.8888888888888:        Y8888888888P           8
+,                   YP88d8888888888P'          ''888888'Y            8
+:                   :bY8888P'''''''                     :            8
+:                    8'8888'                            d            8
+:                    :bY888,                           ,P            8
+:                     Y,8888           d.  ,-         ,8'            8
+:                     '8)888:           '            ,P'             8
+:                      '88888.          ,...        ,P               8
+:                       'Y8888,       ,888888o     ,P                8
+:                         Y888b      ,88888888    ,P'                8
+:                          '888b    ,888888888   ,,'                 8
+:                           'Y88b  dPY888888OP   :'                  8
+:                             :88.,'.   '' '8P-'b.                   8
+:.                             )8P,   ,b '  -   ''b                  8
+::                            :':   d,'d'b, .  - ,db                 8
+::                            'b. dP' d8':      d88'                 8
+::                             '8P' d8P' 8 -  d88P'                  8
+::                            d,' ,d8'  ''  dd88'                    8
+::                           d'   8P'  d' dd88'8                     8
+ :                          ,:   ''   d:ddO8P' 'b.                   8
+ :                  ,dooood88: ,    ,d8888''    '''b.                8
+ :               .o8''''''''Y8.b    8 ''''    .o'  ''''ob.           8
+ :              dP'         '8:     K       dP''        ''Yo.        8
+ :             dP            88     8b.   ,d'              ''b       8
+ :             8.            8P     8'''  ''                 :.      8
+ :            :8:           :8'    ,:                        ::      8
+ :            :8:           d:    d'                         ::      8
+ :            :8:          dP   ,,'                          ::      8
+ :            '8:     :b  dP   ,,                            ::      8
+ :            ,8b     :8 dP   ,,                             d       8
+ :            :8P     :8dP    d'                       d     8       8
+ :            :8:     d8P    d'                      d88    :P       8
+ :            d8'    ,88'   ,P                     ,d888    d'       8
+ :            88     dP'   ,P                      d8888b   8        8
+ '           ,8:   ,dP'    8.                     d8''88'  :8        8
+             :8   d8P'    d88b                   d''  88   :8        8
+             d: ,d8P'    ,8P'''.                      88   :P        8
+             8 ,88P'     d'                           88   ::        8
+            ,8 d8P       8                            88   ::        8
+            d: 8P       ,:  -hrr-                    :88   ::        8
+            8',8:,d     d'                           :8:   ::        8
+           ,8,8P'8'    ,8                            :8'   ::        8
+           :8'' d'     d'                            :8    ::        8
+           '8  ,P     :8                             :8:   ::        8
+            8, '      d8.                            :8:   8:        8
+            :8       d88:                            d8:   8         8
+ ,          '8,     d8888                            88b   8         8
+ :           88   ,d::888                            888   Y:        8
+ :           YK,oo8P :888                            888.  'b        8
+ :           '8888P  :888:                          ,888:   Y,       8
+ :            ''''   '888b                          :888:   'b       8
+ :                    8888                           888:    ::      8
+ :                    8888:                          888b     Y.     8,
+ :                    8888b                          :888     'b     8:
+ :                    88888.                         '888,     Y     8:
+ ''ob...............--''''''----------------------''''''''''''''''''''
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website//index.php?art=creatures/aliens
+'
+
+
+
+
+
+
+
+
+
+
+
+
+
+,:
+          ,?}'
+        =!J |
+      ,*-. ?&
+      WP) Y9P
+     YP   ,W'
+    ,W)  ,WW.'
+    WW) ,WWW)
+    7W),WWWW'
+    'WWWWWW'
+     9---W)
+ ,,--WPL=YXW===
+(P),CY:,I/X'F9P
+WUT===---/===9)
+-HP+----Y(C=9W)
+ '9Y3'-'-OWPT-
+  'WWLUIECW
+   (:7L7C7'
+  ,P--=YWFL
+  Y-=:9)UW:L
+  3-'9=WU/.7
+ ,WP9HTFUW'()
+  9W7W))UF 9)
+  7WYW))PW W
+   7WH)),WC)
+    7L--/XY)
+    9+-,KY7)
+    W9-Y3+7)
+    W'=9WI7)
+   ,W  '-YY)
+    W    ::W                ,
+   ,T     :X)              ()
+   ()     '9W  'L.         ()         ,-
+   (C     =:9   '9L        ()        ,T
+   ()    ,,-7)    7WL      WW      ,F'
+   ()    , T9)     '9WL    --    ,YF
+   ()    '-/(W       -==+PE9P7===O)          -,
+   'W, ,  T+/WX=L-. ,WP+()+3L3,),=WL  --==-T-
+    7)    -,YW '-=9WPL+PT-- ':--L/=9WP=-'
+    'W-,.-,++W.   WWHP    ,,-/  .9CP3)
+     W  --':-9:7=9W-T ,-=FT''=++,(TFYW=====---,
+     W    .-='/.  7W-,WE=--,,=-:9H=9W''~~~~~~'
+     ()   ':'/Y,  (L-9PXWWW,YWWX,(U3C
+     9' ,,::/Y,/,  7LW+'-'7)()-'(MWW)
+  ,,-/:',T,'-:',) ,3WWW, .Y=W'.(+WPW)
+ ,F=T:9/:':C' /W),WMW9PO),m-+--9+WYW)
+,3Y:/--.'-,',F=FHWWE/LMWU.'--X3CWW(WL
+YP:/:' -/'-Y-,W-T)9X,WCWWWX=WWWW39/OW
+7WF:=,/:-:P:,P(-'))PWWHYT79WWWHPW0W7W'
+'WU7C-:=-=-C9'WF,):):H7L   '7CI7WEXP'
+ 7L-,Y==3F:::,=,:-/,'P=.,  ':79UWEW)
+ 'WEW9P=/,)/ -:,P: / L7:'-=,-+YMWWW)
+  'W)+=T,T()/-,F,,,),)  ',.-+(L=W9WW.
+   '+C/:I'''',P:''/ '  ''9.  == '-'7-
+    (W-+'. ,YF )/:'      ')-. ,-:FX-L
+    'WM/',/CP /,:'    ..:)  ,T','/: 'W,
+     W--,YXT /'')   ,P=-/',P'  '(:'  'W,
+     (WEXWF Y' ,)  ,/'-,,YT    ///  ,,'W.
+    ,WWWWT,,' .Y:/.',,-,=',- ,YY(). +3,W)
+    WFXF:,'P ,,)/  ,',P',,- ,FI,))) I3'W)
+    -HP,X'',/ '  ,/,/' ,/',,P3'I(:) W) W)       /=+=,
+     9WY).,/'  ,/'-'   ,-=9-/'Y'((',W) PW      /'  '-==L,
+     'WY,'    ,/,P   ,YP- C/',',)( (W'(WW.    /'       '7==L.
+      ()'    /:/' ,,WT'  3F',' /)W (W (K()   /'   .        '7X
+      ()   ,P,P',)T=:- ,WP'.' ,P,T (W (-9L ,Y)' ,X//, .    Y:P
+     ,F   ,F,',--,/:' ,+P' '  Y):) (E' YHWLWT)-''-9/',-' ,,,WF
+    ,P.,P,)-3-- ,-,' ,WF.    ,Y (' (L-WCTWEW30V-/',:'=/P+E7WF
+    W- Y,P/C)',Y',' ,WT      Y) :  (P-=Y:UW9CX)3-=- ,W:9/PXXW.
+   /T./:P/)' ,P',' YW-      ,P'',  9M).())WTHW3,C'  9C9='W3WW)
+  ,EPOP/YR. /F ,',/W)       /'  :  (W)'W979WO0=WC:,..9LPXWWP-
+  3H:WL-R' /' /' /WF       ,) ,,   (U'(HW=WWXO:--:,:'(W=WWF'
+ ,WLWWWI:,F' /-'3WF '      Y  ) ,  (),T(0)WO9YPL.' ',WP=='
+   --YWX-F  Y',WWT' :':   (' ()7)  (MT: WP)3C)-''  3C'
+       WF  /' YW--,  ,    Y  W (),YM+C' 9+I3UV:' .YP'
+      (T  3',H3-.. ,..  .,) ,) ()F-=T-. (0,9L,'  /P'
+      ,W Y' 33P  .  /    Y  Y) (Y' R,:  7)Y+-),,=W'
+      /',F.,W)     ,,.' ,) ,W) +)  3),  (WT9XW=3P'
+     /F:T.:WF.  '..:'   :' (W. 7) '=),  'WT7WWP '
+    ,P,F''WF  . , :-': ,)  YC../) 'HY.   WP0WC'
+   ,P:9::YP   '  '('   :   W) .W)  +3)   9TLWC
+   (P/Y(,P' ... '':, .,)  ,W) :3)  X+.   WFUW)
+   'WW),I','  .., =  ':  ,O+' ,W'  )9,   99U()
+    7W,='.,' ' :.'. . '  ,W)  =3   )+.  ,OH:O)
+    'L,F,: '. :C::' '    (W)  9W   7+    'H,:L
+     7W'++: .. ,':' '    YT   Y).  :-.    XU:W
+     (T':,''','','       3'  ,-)   ,-'    77XW
+     (W),J.-:/-:))'      P   )9)   :,Y  .  T,9)
+     (WUI:TY:,,,:,      /' ,- W)   YC:     9/7)
+     (U),-:-''.'=      (:,F' (W)   ,Y.     3=:L
+      (),:::',)/'    ,,F9W'  YW)   /L.    .7=9W,
+      (LUL-L.T-'.' ,WXM(W)   3W)   'U.     ,)-W
+      3X=((:,' ' ,WMWF-(+'   WW'   '=,'    ,ICW
+     ,T)=)K-=':-WPIWP':,:   ,WW    +/, ..' :+,9)
+     Y):LX:.:=EHR,PU:'/''   (WW    I:=, .,-9CO)
+     ()-+,,HPT+C:W9= ,)'    /WT'   T.: --PCXCKF'
+     7LIHTP+OY3LW'3:,L..    WW)    ,,(W('MX'WT'
+      7T,I-:XF:WF(: ,)    ':WWT  ,=PT:T(AY) W
+      (PWW)W3=/P,P  ,     ,'WW),YP,WH,)Y)TWX9)
+      3)OWRE)-YUY'... '  ..(WWXWW)9W+C)WUP9P3'
+     ,WTHEF:LOP:W ' ,.   ,:(WPY(W,(P::)W(P3+)
+     (P3WF/:WM:() :.:      (WHY)39HC'U()(W,W)
+     (LW9/CWY-,E'  ,'     'YPL/T:WP:,(()3Y W)
+     (TLUEEP=7W+.,:)       -P-:,PWT.:Y()() W+
+     (EP/30-OAT .'3  . . . .C,P):WP Y)()3C:PW
+     (PWMH:FXW'',-(, '   ',97WMU(7: )LW W .WW
+     (WOWF-7EP)-X3., , ,,WP+WYY+YW' )WW 3 .W7)
+      9W93UOY):.)/.- :YWCWU-EIMC)E (-WP + ,WW'
+      (XWYUWY.,:'.,,YE3-7WE3WXV(UT,( W),T =P'
+      (PT709),)C:/FY9)T.(W9YHL/Y(C T,W)') W.
+      (+UTYH-:-=C-(P(-).WWF3:))3(U))(W)() P'
+      3P7Y3)/'XP:)WP(J. WXCWKV:)()))(W'U)()
+      7OLY3',H9),YW'F ),W)CT)/Y((-))'W,U)()
+      7F=T-/T(=)A3C,)3)(WA()=)TY(CY'YWY(::)
+      W9C=()L/3,9'/('Y,YWU(XE/))()E.YT)3:)L
+      W=P:F:(,)),,'F'/:WP+3OY':)(R+ /T,T')W
+   -=WRHX9C9-W'=,),)'A,A)XW779EXWK+.()3W),(,
+ ,W=-'L,,XX)/)+'I 3)39I(UHE-+LX39TWH/LUP)(H)
+,P:. ,-90/,(F0'/:,W //'(YOC':--YY3/IRW'9LT')
+3W=:Y:-F.)Y:/''Y /O.=:,WL9) ,. ,.79=9PL'9(-W,
+WWWWWWWPT:,::/'-WH=9',P=-W3XU3-,W=YL-O3-O)X9WL
+ -7T--''=9W==W=9WWHW====''P======='---=T==F==9)
+ 
+ 
+ 
+ 
+ 
+ 
+   .--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
+:::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
+'      `--'      `.-'      `--'      `--'      `--'      `-.'      `--'      `
+ 
+  .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.
+dtodt\dtodtod\odtodto\todtodt\dtodtod\odtodto\todtodt\dtodtod\odtodto\todtodt\
+'     `-'     `-'     `-'     `-'     `-'     `-'     `-'     `-'     `-'     ` 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        .:oyhs                          
+                                                                 '+dNMMMMo                          
+                                                                :mMMMMMMMN:                         
+                       '-::'                                   oNMMMmy+:---                         
+                    .ohmNN+              .-/+oosyysso+:-'     sMMNs-'     ..                        
+                  .sNMMMM+          ':+ymNNMMMMMMMMMMMMNNdy/-oMMN:      .omNo.                      
+                 :mMMMMMd        ':ymNMMMMMMMMMMMMMMMMMMMMMMNMMMo   './ymMMMMNho/.                  
+                :NMMMMMM:      '/dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMhsyhmNMMMMMMNmho-'                  
+               .mMMMMMMm'     -dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmddhyys+:.'                      
+               oMMMMMMMy     /NMMMMMMMMMMNmmmddddddddmmNMMMMMMMMMMMd.''                             
+               mMMMMMMM/    :NMMMMMmdyo/--..'''   ''''..-:+ydmMMMMMMh'                              
+              -MMMMMMMM-   'dMMMdo:.'                       './ymMMMMo                              
+              oMMMMMMMN.   /MMm/'     .+-               '//'    .omMMN                              
+              oMMMMMMMm'   +MM+       dMN:              yMM/      /MMM'                             
+              /MMMMMMMd    :MMm:'     /hs.              /hy.     -dMMN                              
+              'MMMMMMMd    'dMMNh/.                          '.:yNMMMo                              
+               dMMMMMMm'    -NMMMMmho/-.''             ''.-/shmMMMMMh'                              
+               /MMMMMMN.     -mMMMMMMMMNmdhyysooooosyyhdmNMMMMMMMMMy'                               
+                hMMMMMM:      .sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+                                 
+                .mMMMMMy        -yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo'                                  
+                 -NMMMMN.         .odNMMMMMMMMMMMMMMMMMMMMMNNh/'                                    
+                  :NMMMMs           ':yMMMMMMMMMMMMMMMMMMMNo.                                       
+                   -mMMMM-       ':sdMMMMMMMMMMMMMMMMMMMMMMMNh+-'                                   
+                    .hMMMd'   '/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms:                                 
+                      +NMMy':yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo.                              
+                       -mMMNMMMMMMMmdhmMMMMMMMMMMMMMMMMMMMMdhmNMMMMMMMh/.:'                         
+                      'sMMMMMMMdo/.   +MMMMMMMMMMMMMMMMMMMM.  '-+ydMMMMMMMN+                        
+                      'yMMMMMMM/      sMMMMMMMMMMMMMMMMMMMM-       'oMMMMMN+                        
+                        +dMNhdy.      dMMMMMMMMMMMMMMMMMMMM+        '+dMMy-                         
+                         '-. '       'mMMMMMMMMMMMMMMMMMMMMs          '.-                           
+                                    'oNMMMMMMMMMMMMMMMMMMMMm/                                       
+                                   /dMMMMMMMMMMMMMMMMMMMMMMMNy.                                     
+                                 'yMMMMMMMMMMNmddddmNMMMMMMMMMm/                                    
+                                'hMMMMMMMMNy/.''''''./hMMMMMMMMN/                                   
+                                yMMMMMMMMd-           '+NMMMMMMMN-                                  
+                               -NMMMMMMMm.              oMMMMMMMMh                                  
+                               sMMMMMMMMs               'mMMMMMMMM:                                 
+                              'ydmmmmmdd:                sdmmmmmdd/                                 
+                                ''...'''                  '''..'''   
+								
+								
+								
+								
+								
+								
+								
+								
+								                                    
+			
+             ___ ___                                          
+            /   |   \_____  ______ ______ ___.__.             
+           /    =    \__  \ \____ \\____ <   |  |             
+           \    =    // __ \|  |_> |  |_> \___  |             
+            \___|_  /(____  |   __/|   __// ____|             
+  ___ ___        .__  .__ \/|__|   |__|   \/                  
+ /   |   \_____  |  | |  |   ______  _  __ ____  ____   ____  
+/    ~    \__  \ |  | |  |  /  _ \ \/ \/ _/ __ _/ __ \ /    \ 
+\    _    // __ \|  |_|  |_(  <_> \     /\  ___\  ___/|   |  \
+ \___|_  /(____  |____|____/\____/ \/\_/  \___  \___  |___|  /
+       \/      \/                             \/    \/     \/ 
+             					    _____
+                               _.-""     ""-._
+                             .'               '.
+                . . . . .  .'                   '.
+                !-!-!-!-! /   .-..                \
+                !_!,!_!_!/    |__H _    .-\_)`-.   \
+              ,/`,/'_`\,`\,  [____|_]  /.-. .-,_\   ;
+            ,/',/'/_|_\`\,`\,|=   |=|      \(       ;
+          ,/' |/ ||"""|| \| `\, = | |       `       |
+          |   #| ||___|| | #  |=  | |               |
+        ,/' #  | [_____] |   #`\, |=|               ;
+      ,/',-----'      =  '-----,`\--'---,/\,--,    /
+     `""|   .;;;,=      ,;;;,   |#  # ,//  \\,'\, /
+        | =//___\\ =   //___\\ =| # ,//',;;,'\\,#\,
+        |  ||   ||     ||   ||  |#,//' //||\\ '\\,`\,
+        |  ||   ||     ||   ||  |-|/| ||_||_|| |\|_ _|
+        |  ||   ||   = ||   ||  |=  | |.----.|=|___]
+        |= ||___|| =   ||___|| =|  =| ||    || | ||
+        | [_______]   [_______] |--.| ||____|| | ||
+        ;_______=______=_____ __;   |[________]| ||
+      ,/'#    #   #      #       #  '----------''\|
+    ,/'    #        #       #         #     #   # '\,
+  ,/'___#____#__#_____#___#_______#_______#____#___#'\,
+  `""[____________________________________________]|""`
+     _[_|   .-----.  =-       ___________    ||_]_||
+    |  _| .",-"|"-,',   () = |.--..-..--.| = |_  |||
+    |_/ |/ /_\_|_/_\ \ /__\  ||__||_||__||   | \_|\\
+    (_) || .-------. | |  |  |.--..-..--.|  =| (_) ||
+    / \ || |       | | |()|  ||__||_||__||   | / \ ||
+    \_/ || '-------' |  )(   |___________|   | \_/ ||
+    (_) ||.---------.|  \/   |.---------.|=  | (_) ||
+    / \ |||   ___   ||    =  ||         ||   | / \ ||
+    \_/ |||  {___}  ||       ||         ||   | \_/ ||
+    (_) |||  ((_))  || -=   =||_________|| = |_(_)_//
+    / \ |||   '-'   ||   _ .-'-----------'-. | / \__\
+    \_/_|||       ()||  [_]"""""""""""""""""[_]\_/\\\\
+   [ __ ]||         || =| |==.==.==.==.==.==| |__]|||||
+   j|  ||||         ||  | |  |  |  |  |  |  | |  |====|
+   g|__|||;).       ||--|_|=='=='=='=='=='==|_|  ||||||
+  _s____/`---`\ ____||_.____._____._____.____.|__|////
+ |     |  9.9  |=====' |    |    /  \    \   |    |-'
+ '------\ www /---'----'----'---'----'---'---'----'
+         `---'
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=holiday/halloween
+
+       __   __
+      |  |_|  |______ _,___ _,___ _   _         \--/
+      |   _   |__    |  __ |  __ | |_| |     /`-'  '-`\
+      |__| |__|__-_,_| ,___| ,___|___, |    /          \
+                     |_|   |_|       |_|   /.'|/\  /\|'.\
+    __   __        _ _                           \/
+   |  |_|  |______| | |______ __ _ __ ______ ______ _,____
+   |   _   |__    | | |  __  |  | |  |  --__|  --__|  __  \
+   |__| |__|__-_,_|_|_|______|_______|______|______|_|  |_|
+
+                ,-"-._                   _.-"-,
+                 )'.  `-.    _,,,_    .-`  .'(
+                 |  `'.  `-"`     `"-`  .'`  |
+                  \    .-'           '-.     /
+      _          .'     .--.       .--.     '.
+   '-(-'  _     /      (.=.|       |.=.)      \   _   .
+      '._(_)   :        \_o/  .-.  \_o/        : ( )_.'
+          \    :             (   )             :.-'
+         ,-''-.;      .___  .-`Y`-. ___.       ;_.'-,
+         \ '-.\ \      .--(   .'.   )--.      / _./_|
+          '._.-'`'-.,     _;-'\_/'-;_     ,.-'`'._`/
+       jgs_.',_.-' / `'''`  `.___.'  `'''` \ '-.__`-,
+         '. -'/_.-|          ;   ;          |  \  _/
+           ';'`   \          /   \          /'---',
+           /   .   '._,__,_,'     ',_,__,_,'       \
+          /   .       .'\                .'\   :    \
+         ;             \\\                \\\        ;
+         |   :    /'._.' \\          /'._.' \\   '   |
+         |       ( ______/ )        ( ______/ )      |
+         |   :    `~~~~~~~`    .-.   `~~~~~~~`    :  |
+         |           :        / `\\        :         |
+         |      _,           ( __/ )           _, :  |
+         |   :   \   :        `~~~`        :  .'     |
+         |        `-._                     _,'       |
+         |   .       \`--._          __.--'//     :  |
+         |            \    `'\\     /`   .'/         |
+         ;     :       `.     `~~~~`  _.'.'      '   ;
+          \      .       `-._  _____.'.-'           /
+           \       .    .    `'~~~~~'`   .     '   /
+            `._    _._    '_._      _._'    _.___.'
+               `""`   `"""`   `""""`   `"""`
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=holiday/halloween

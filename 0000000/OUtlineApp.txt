@@ -1,0 +1,22 @@
+-- Get computer uptime from network computer  -- Done 
+-- Dell command update   Done 
+--  Turn off UAC   Done
+-- Reboots computer- Prompt to save   Done
+-- Remote computer Get PC info 
+	- sytem stats
+	 - Uptime -- Done
+	 - Disk Usage -- Done
+	 - CPU
+	 - Running Processes Done 
+	 - 
+--	 
+	 
+-- Enables local Administrator & Sets password
+Get-LocalUser -Name "Administrator" | Enable-LocalUser
+Set-LocalUser -Name "Administrator"
+$Password = Read-Host -AsSecureString 
+$UserAccount = Get-LocalUser -Name "Administrator" 
+$UserAccount | Set-localUser -Password $Password
+echo "!!!!!!!!!!Administrator Password Now Set!!!!!!!!!!!"
+
+*--------------------------
